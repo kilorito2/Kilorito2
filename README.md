@@ -68,7 +68,7 @@ Actualmente mejorando mis habilidades en:
 
 <div align="center">
   <p>Gracias por pasar por mi perfil ✨</p>
-  <a href="https://www.linkedin.com/in/kilorito-2-a9b80739a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="www.linkedin.com/in/kilorito" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
