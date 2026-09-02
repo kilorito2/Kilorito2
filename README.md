@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=¡Hola,%20soy%20Luciano!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=¡Hola,%20soy%20Luciano!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://github.com/kilorito2">
   <img src="https://readme-typing-svg.demolab.com/?lines=Construyendo+interfaces+modernas+con+React;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Del+dise%C3%B1o+al+deploy+%E2%9A%A1;Bienvenido%2Fa+a+mi+perfil+%F0%9F%91%8B&font=Fira+Code&center=true&width=520&height=45&color=A855F7&vCenter=true&size=22&pause=1800" alt="typing banner" />
