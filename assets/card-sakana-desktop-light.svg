@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="172" viewBox="0 0 588 172" role="img" aria-label="Sakana Desktop">
+<rect x="0.5" y="0.5" width="587" height="171" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="5" height="171" rx="2.5" fill="#5b4bd6"/>
+<g transform="translate(24,24) scale(1.0)" fill="none" stroke="#5b4bd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="3" rx="2" />
+  <line x1="8" x2="16" y1="21" y2="21" />
+  <line x1="12" x2="12" y1="17" y2="21" /></g>
+<text x="58" y="43" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1f2328">Sakana Desktop</text>
+<g transform="translate(542,22) scale(0.9166666666666666)" fill="none" stroke="#59636e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" />
+  <path d="M7 17 17 7" /></g>
+<line x1="24" y1="62" x2="564" y2="62" stroke="#d0d7de"/>
+<text x="24" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">Clon de escritorio de una interfaz de chat de IA, con capa de</text><text x="24" y="114" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">proveedores agnóstica del backend.</text>
+<rect x="24" y="128" width="75" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="62" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">Electron</text><rect x="107.2" y="128" width="53" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="134" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">React</text><rect x="168.2" y="128" width="90" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="213" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">TypeScript</text>
+</svg>

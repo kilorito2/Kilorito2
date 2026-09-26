@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="172" viewBox="0 0 588 172" role="img" aria-label="ReverseFolio">
+<rect x="0.5" y="0.5" width="587" height="171" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="5" height="171" rx="2.5" fill="#5b4bd6"/>
+<g transform="translate(24,24) scale(1.0)" fill="none" stroke="#5b4bd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 6a9 9 0 0 0-9 9V3" />
+  <circle cx="18" cy="6" r="3" />
+  <circle cx="6" cy="18" r="3" /></g>
+<text x="58" y="43" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1f2328">ReverseFolio</text>
+<g transform="translate(542,22) scale(0.9166666666666666)" fill="none" stroke="#59636e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" />
+  <path d="M7 17 17 7" /></g>
+<line x1="24" y1="62" x2="564" y2="62" stroke="#d0d7de"/>
+<text x="24" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">Widget y plataforma para portfolios de devs: árbol de puntos</text><text x="24" y="114" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">ciegos con embeds y badge SVG.</text>
+<rect x="24" y="128" width="68" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="58" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">Next.js</text><rect x="99.80000000000001" y="128" width="75" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="137" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">Supabase</text><rect x="183.0" y="128" width="75" height="26" rx="13" fill="#eaeef2" stroke="#d0d7de"/><text x="221" y="145.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="12" fill="#1f2328">Monorepo</text>
+</svg>

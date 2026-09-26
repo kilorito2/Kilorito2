@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48" role="img" aria-label="LinkedIn">
+<rect x="0.5" y="0.5" width="189" height="47" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<g transform="translate(18,12) scale(1.0)" fill="none" stroke="#5b4bd6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01" />
+  <path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2" />
+  <path d="M22 13a18.15 18.15 0 0 1-20 0" />
+  <rect width="20" height="14" x="2" y="6" rx="2" /></g>
+<text x="54" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600" fill="#1f2328">LinkedIn</text>
+<g transform="translate(156,14) scale(0.8333333333333334)" fill="none" stroke="#59636e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10" />
+  <path d="M7 17 17 7" /></g>
+</svg>

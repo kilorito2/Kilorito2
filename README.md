@@ -1,171 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=¡Hola,%20soy%20Luciano!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=18" width="100%" alt="header" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg"><img alt="Luciano Rodríguez López, desarrollador frontend" src="assets/banner-dark.svg" width="1200"></picture>
 
-<a href="https://github.com/kilorito2">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Construyendo+interfaces+modernas+con+React;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Del+dise%C3%B1o+al+deploy+%E2%9A%A1;Bienvenido%2Fa+a+mi+perfil+%F0%9F%91%8B&font=Fira+Code&center=true&width=520&height=45&color=A855F7&vCenter=true&size=22&pause=1800" alt="typing banner" />
-</a>
+<br>
+
+<a href="https://luciano-rodriguez.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portafolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-portafolio-light.svg"><img alt="Portafolio" src="assets/btn-portafolio-dark.svg" width="190"></picture></a>
+<a href="https://www.linkedin.com/in/kilorito"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"><img alt="LinkedIn" src="assets/btn-linkedin-dark.svg" width="190"></picture></a>
+<a href="https://github.com/kilorito2?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/btn-github-light.svg"><img alt="GitHub" src="assets/btn-github-dark.svg" width="190"></picture></a>
 
 </div>
 
 <br>
 
-<table align="center" width="100%">
-<tr>
-<td valign="top" width="50%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg"><img alt="Sobre mí" src="assets/h-about-dark.svg" width="1200"></picture>
 
-### 🧠 Sobre mí
+Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN Tucumán** (Argentina) y desarrollo software de forma independiente. Trabajo principalmente con **React, TypeScript y Tailwind CSS** para la web, y con **Electron** y **Rust** para aplicaciones de escritorio.
 
-Soy **Luciano Rodríguez López**, estudiante y desarrollador **frontend** de Argentina 🇦🇷.
-
-Me enfoco en construir interfaces **limpias, rápidas y bien pensadas**, y aprendo mucho más haciendo que leyendo: cada proyecto es una excusa para probar algo nuevo.
-
-- 🎓 Estudiante, en formación constante
-- ⚛️ React + TypeScript como stack principal
-- 🎨 Foco en UI/UX, animaciones y detalles
-- 📦 Construyendo mi portafolio de proyectos propios
-
-</td>
-<td valign="top" width="50%">
-
-### ⚡ Datos rápidos
-
-```yaml
-nombre:      Luciano Rodríguez López
-alias:       Kilorito
-rol:         Frontend Developer
-ubicación:   Argentina
-stack:       React · TypeScript · Tailwind CSS
-aprendiendo: React avanzado, mejores prácticas
-```
-
-</td>
-</tr>
-</table>
+Me interesa construir productos completos: interfaces cuidadas, arquitectura clara y detalles de interacción bien resueltos. Mis proyectos van desde aplicaciones de escritorio y plataformas web hasta landings con animación y 3D.
 
 <br>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img alt="Stack" src="assets/h-stack-dark.svg" width="1200"></picture>
 
-### 🛠️ Tech Stack
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Stack tecnológico" src="assets/stack-dark.svg" width="1200"></picture>
 
 <br>
 
-### 🚀 Proyectos destacados
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-projects-light.svg"><img alt="Proyectos destacados" src="assets/h-projects-dark.svg" width="1200"></picture>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[🌍 Terra](https://github.com/kilorito2/Terra)**
-<br>
-Landing inmersiva sobre las causas del cambio climático, con video de fondo y efecto *liquid glass*.
-<br><br>
-`React` `TypeScript` `Tailwind v4` `Motion`
-
-</td>
-<td width="50%" valign="top">
-
-**[🌊 Vex](https://github.com/kilorito2/Vex)**
-<br>
-Landing inmersiva sobre exploración, cartografía y conservación del océano profundo.
-<br><br>
-`React` `TypeScript` `Tailwind CSS` `Vite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🧶 Lanitas Tejidas](https://github.com/kilorito2/Lanitas-Tejidas)**
-<br>
-Landing page para un emprendimiento de tejidos a crochet hechos a mano, con contacto directo por WhatsApp e Instagram.
-<br><br>
-`React 19` `Vite` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-**[💼 Portafolio personal](https://kilorito2.github.io/portafolio/)**
-<br>
-Portafolio de una sola página, con contenido centralizado y modo oscuro persistente.
-<br><br>
-`React` `TypeScript` `Tailwind v4` `Motion`
-
-</td>
-</tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/sakana-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sakana-desktop-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-sakana-desktop-light.svg"><img alt="Sakana Desktop" src="assets/card-sakana-desktop-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/reversefolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-reversefolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-reversefolio-light.svg"><img alt="ReverseFolio" src="assets/card-reversefolio-dark.svg" width="588"></picture></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/navegador-rust"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-navegador-rust-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-navegador-rust-light.svg"><img alt="Navegador Rust" src="assets/card-navegador-rust-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-open-source-scheduling-saas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-open-source-scheduling-saas-light.svg"><img alt="Huso" src="assets/card-open-source-scheduling-saas-dark.svg" width="588"></picture></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-climate-esg-productivity-dashboard-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-climate-esg-productivity-dashboard-light.svg"><img alt="Panel ESG para PYMEs" src="assets/card-climate-esg-productivity-dashboard-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/lumen-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lumen-studio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-lumen-studio-light.svg"><img alt="Lumen Studio" src="assets/card-lumen-studio-dark.svg" width="588"></picture></a></td></tr>
 </table>
 
-<div align="center">
+<br>
 
-📁 Explorá el resto en **[github.com/kilorito2?tab=repositories](https://github.com/kilorito2?tab=repositories)**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-more-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-more-light.svg"><img alt="Más trabajo" src="assets/h-more-dark.svg" width="1200"></picture>
 
-</div>
+<table>
+<tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
+<tr><td><a href="https://github.com/kilorito2/Terra"><b>Terra</b></a></td><td>Landing inmersiva sobre cambio climático, con video de fondo y efecto liquid glass.</td><td><code>React · TypeScript · Tailwind v4</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/Vex"><b>Vex</b></a></td><td>Landing sobre exploración y conservación del océano profundo.</td><td><code>React · TypeScript · Vite</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/loam"><b>Loam</b></a></td><td>Landing editorial experimental con scroll suave y animaciones.</td><td><code>Next.js · GSAP · Lenis</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/altitude-landing"><b>Altitude</b></a></td><td>Landing de inteligencia de datos orbitales.</td><td><code>Vite · CSS</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/velmont-grand-hotel"><b>Velmont Grand Hotel</b></a></td><td>Landing de hotel de lujo en HTML, CSS y JavaScript.</td><td><code>HTML · CSS · JS</code></td></tr>
+<tr><td><a href="https://simulador-de-trayectoria-de-proyect.vercel.app"><b>Simulador de proyectiles</b></a></td><td>Simulador web de la trayectoria de proyectiles.</td><td><code>TypeScript · Vite</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/kiomusic-discord-bot"><b>KioMusic</b></a></td><td>Bot de música para Discord con filtros de audio, playlists y panel web.</td><td><code>Node.js · Discord</code></td></tr>
+<tr><td><a href="https://github.com/kilorito2/Lanitas-Tejidas"><b>Lanitas Tejidas</b></a></td><td>Landing de un emprendimiento de tejidos a crochet.</td><td><code>React · Vite · Tailwind</code></td></tr>
+</table>
 
 <br>
 
 <div align="center">
 
-### 📊 Estadísticas
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img alt="" src="assets/divider-dark.svg" width="1200"></picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kilorito2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilorito2&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Langs" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kilorito2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-### 🌱 Siempre aprendiendo
-
-- ⚛️ React avanzado (patrones, performance, arquitectura)
-- 🧩 Buenas prácticas de frontend y código mantenible
-- 🎨 Diseño de producto y sistemas de diseño
-- 🎬 Animaciones e interacciones con Motion
-
-<br>
-
-<div align="center">
-
-### 📫 Contacto
-
-<a href="https://www.linkedin.com/in/kilorito" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/kilorito2" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-**¡Gracias por pasar por mi perfil! ✨**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="footer" />
+<sub>Luciano Rodríguez López · Tucumán, Argentina</sub>
 
 </div>
