@@ -12,7 +12,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg"><img alt="Sobre mí" src="assets/h-about-dark.svg" width="1200"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg"><img alt="Sobre mí" src="assets/h-about-dark.svg" width="400"></picture>
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN Tucumán** (Argentina) y desarrollo software de forma independiente. Trabajo principalmente con **React, TypeScript y Tailwind CSS** para la web, y con **Electron** y **Rust** para aplicaciones de escritorio.
 
@@ -20,13 +20,13 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img alt="Stack" src="assets/h-stack-dark.svg" width="1200"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img alt="Stack" src="assets/h-stack-dark.svg" width="400"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Stack tecnológico" src="assets/stack-dark.svg" width="1200"></picture>
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-projects-light.svg"><img alt="Proyectos destacados" src="assets/h-projects-dark.svg" width="1200"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-projects-light.svg"><img alt="Proyectos destacados" src="assets/h-projects-dark.svg" width="400"></picture>
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/sakana-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-sakana-desktop-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-sakana-desktop-light.svg"><img alt="Sakana Desktop" src="assets/card-sakana-desktop-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/reversefolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-reversefolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-reversefolio-light.svg"><img alt="ReverseFolio" src="assets/card-reversefolio-dark.svg" width="588"></picture></a></td></tr>
@@ -36,7 +36,7 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-more-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-more-light.svg"><img alt="Más trabajo" src="assets/h-more-dark.svg" width="1200"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-more-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-more-light.svg"><img alt="Más trabajo" src="assets/h-more-dark.svg" width="400"></picture>
 
 <table>
 <tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
