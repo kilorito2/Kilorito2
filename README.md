@@ -61,9 +61,8 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
   <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/huso-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/huso-light.svg"><img src="assets/v5/cards/huso-dark.svg" width="49%" alt="Huso: agenda pública open source para freelancers y equipos. TypeScript"></picture></a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/esg-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/esg-light.svg"><img src="assets/v5/cards/esg-dark.svg" width="49%" alt="Panel ESG para PYMEs: energía, residuos y viajes con score ESG. TypeScript"></picture></a>
-  <a href="https://github.com/kilorito2/lumen-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/lumen-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/lumen-light.svg"><img src="assets/v5/cards/lumen-dark.svg" width="49%" alt="Lumen Studio: sitio al estilo Awwwards con storytelling guiado por scroll. Next.js, Three.js"></picture></a>
 </p>
 
 <details>
