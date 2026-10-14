@@ -57,11 +57,12 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 </p>
 
 <p align="center">
+  <a href="https://github.com/kilorito2/michi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/michi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/michi-light.svg"><img src="assets/v5/cards/michi-dark.svg" width="49%" alt="Michi: navegador para Windows hecho en Rust y sin barra de pestañas. Rust, WebView2"></picture></a>
   <a href="https://github.com/kilorito2/reversefolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/reversefolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/reversefolio-light.svg"><img src="assets/v5/cards/reversefolio-dark.svg" width="49%" alt="ReverseFolio: plataforma y widget para portfolios de devs. TypeScript, Web Component, SVG"></picture></a>
-  <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/huso-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/huso-light.svg"><img src="assets/v5/cards/huso-dark.svg" width="49%" alt="Huso: agenda pública open source para freelancers y equipos. TypeScript"></picture></a>
 </p>
 
-<p align="left">
+<p align="center">
+  <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/huso-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/huso-light.svg"><img src="assets/v5/cards/huso-dark.svg" width="49%" alt="Huso: agenda pública open source para freelancers y equipos. TypeScript"></picture></a>
   <a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/esg-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/esg-light.svg"><img src="assets/v5/cards/esg-dark.svg" width="49%" alt="Panel ESG para PYMEs: energía, residuos y viajes con score ESG. TypeScript"></picture></a>
 </p>
 
