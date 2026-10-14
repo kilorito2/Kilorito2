@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0A93A&center=true&vCenter=true&width=760&lines=Interfaces+cuidadas%2C+arquitectura+clara;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Apps+de+escritorio+con+Electron+y+Rust;Estudiante+de+Programaci%C3%B3n+%C2%B7+UTN+Tucum%C3%A1n" alt="Interfaces cuidadas, arquitectura clara. React, TypeScript, Tailwind CSS. Apps de escritorio con Electron y Rust.">
 </a>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kilorito2&style=flat&color=f0a93a&label=visitas" alt="visitas al perfil">
-
 </div>
 
 ---
