@@ -1,61 +1,165 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/banner-light.svg"><img alt="Luciano Rodríguez López, desarrollador frontend" src="assets/v2/banner-dark.svg" width="1200"></picture>
+<a href="https://github.com/kilorito2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v3/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v3/banner-light.svg">
+    <img src="assets/v3/banner-dark.svg" width="960" alt="Luciano Rodríguez López, desarrollador frontend y estudiante de Programación en la UTN Tucumán">
+  </picture>
+</a>
 
 <br>
 
-<a href="https://luciano-rodriguez.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/btn-portafolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/btn-portafolio-light.svg"><img alt="Portafolio" src="assets/v2/btn-portafolio-dark.svg" width="190"></picture></a>
-<a href="https://www.linkedin.com/in/kilorito"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/btn-linkedin-light.svg"><img alt="LinkedIn" src="assets/v2/btn-linkedin-dark.svg" width="190"></picture></a>
-<a href="https://github.com/kilorito2?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/btn-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/btn-github-light.svg"><img alt="GitHub" src="assets/v2/btn-github-dark.svg" width="190"></picture></a>
+<a href="https://luciano-rodriguez.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F0A93A&center=true&vCenter=true&width=760&lines=Interfaces+cuidadas%2C+arquitectura+clara;React+%C2%B7+TypeScript+%C2%B7+Tailwind+CSS;Apps+de+escritorio+con+Electron+y+Rust;Estudiante+de+Programaci%C3%B3n+%C2%B7+UTN+Tucum%C3%A1n" alt="Interfaces cuidadas, arquitectura clara. React, TypeScript, Tailwind CSS. Apps de escritorio con Electron y Rust.">
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kilorito2&style=flat&color=f0a93a&label=visitas" alt="visitas al perfil">
 
 </div>
 
-<br>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/h-about-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/h-about-light.svg"><img alt="Sobre mí" src="assets/v2/h-about-dark.svg" width="400"></picture>
+## `PS> sobre-mi`
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN Tucumán** (Argentina) y desarrollo software de forma independiente. Trabajo principalmente con **React, TypeScript y Tailwind CSS** para la web, y con **Electron** y **Rust** para aplicaciones de escritorio.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v3/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v3/whoami-light.svg">
+    <img src="assets/v3/whoami-dark.svg" width="960" alt="Windows PowerShell con una presentación de Luciano: estudiante de programación en UTN Tucumán que desarrolla con React, TypeScript, Tailwind CSS, Electron y Rust">
+  </picture>
+</p>
 
 Me interesa construir productos completos: interfaces cuidadas, arquitectura clara y detalles de interacción bien resueltos. Mis proyectos van desde aplicaciones de escritorio y plataformas web hasta landings con animación y 3D.
 
-<br>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/h-stack-light.svg"><img alt="Stack" src="assets/v2/h-stack-dark.svg" width="400"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/stack-light.svg"><img alt="Stack tecnológico" src="assets/v2/stack-dark.svg" width="1200"></picture>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/h-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/h-projects-light.svg"><img alt="Proyectos destacados" src="assets/v2/h-projects-dark.svg" width="400"></picture>
-
-<table>
-<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/sakana-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-sakana-desktop-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-sakana-desktop-light.svg"><img alt="Sakana Desktop" src="assets/v2/card-sakana-desktop-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/reversefolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-reversefolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-reversefolio-light.svg"><img alt="ReverseFolio" src="assets/v2/card-reversefolio-dark.svg" width="588"></picture></a></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/navegador-rust"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-navegador-rust-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-navegador-rust-light.svg"><img alt="Navegador Rust" src="assets/v2/card-navegador-rust-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-open-source-scheduling-saas-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-open-source-scheduling-saas-light.svg"><img alt="Huso" src="assets/v2/card-open-source-scheduling-saas-dark.svg" width="588"></picture></a></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-climate-esg-productivity-dashboard-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-climate-esg-productivity-dashboard-light.svg"><img alt="Panel ESG para PYMEs" src="assets/v2/card-climate-esg-productivity-dashboard-dark.svg" width="588"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/kilorito2/lumen-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/card-lumen-studio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/card-lumen-studio-light.svg"><img alt="Lumen Studio" src="assets/v2/card-lumen-studio-dark.svg" width="588"></picture></a></td></tr>
-</table>
-
-<br>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/h-more-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/h-more-light.svg"><img alt="Más trabajo" src="assets/v2/h-more-dark.svg" width="400"></picture>
-
-<table>
-<tr><th align="left">Proyecto</th><th align="left">Descripción</th><th align="left">Tecnologías</th></tr>
-<tr><td><a href="https://github.com/kilorito2/Terra"><b>Terra</b></a></td><td>Landing inmersiva sobre cambio climático, con video de fondo y efecto liquid glass.</td><td><code>React · TypeScript · Tailwind v4</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/Vex"><b>Vex</b></a></td><td>Landing sobre exploración y conservación del océano profundo.</td><td><code>React · TypeScript · Vite</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/loam"><b>Loam</b></a></td><td>Landing editorial experimental con scroll suave y animaciones.</td><td><code>Next.js · GSAP · Lenis</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/altitude-landing"><b>Altitude</b></a></td><td>Landing de inteligencia de datos orbitales.</td><td><code>Vite · CSS</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/velmont-grand-hotel"><b>Velmont Grand Hotel</b></a></td><td>Landing de hotel de lujo en HTML, CSS y JavaScript.</td><td><code>HTML · CSS · JS</code></td></tr>
-<tr><td><a href="https://simulador-de-trayectoria-de-proyect.vercel.app"><b>Simulador de proyectiles</b></a></td><td>Simulador web de la trayectoria de proyectiles.</td><td><code>TypeScript · Vite</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/kiomusic-discord-bot"><b>KioMusic</b></a></td><td>Bot de música para Discord con filtros de audio, playlists y panel web.</td><td><code>Node.js · Discord</code></td></tr>
-<tr><td><a href="https://github.com/kilorito2/Lanitas-Tejidas"><b>Lanitas Tejidas</b></a></td><td>Landing de un emprendimiento de tejidos a crochet.</td><td><code>React · Vite · Tailwind</code></td></tr>
-</table>
-
-<br>
+## `PS> stack`
 
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v2/divider-light.svg"><img alt="" src="assets/v2/divider-dark.svg" width="1200"></picture>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS y Vite"><br>
+      <sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>escritorio</b><br><br>
+      <img src="https://skillicons.dev/icons?i=electron,rust,nodejs" alt="Electron, Rust y Node.js"><br>
+      <sub>Electron · Rust · Node.js</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>3d y animación</b><br><br>
+      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"><br>
+      <sub>Three.js · GSAP · Lenis</sub>
+    </td>
+    <td valign="top">
+      <b>herramientas</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Git, GitHub, VS Code, Vercel y Netlify"><br>
+      <sub>Git · GitHub · VS Code · Vercel · Netlify</sub>
+    </td>
+  </tr>
+</table>
 
-<sub>Luciano Rodríguez López · Tucumán, Argentina</sub>
+</div>
+
+---
+
+## `PS> proyectos`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kilorito2/sakana-desktop"><b>Sakana Desktop</b></a><br>
+      Clon de escritorio de Sakana AI Chat con una capa de proveedores de IA agnóstica.<br>
+      <sub><code>Electron · React · TypeScript · Tailwind CSS</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kilorito2/reversefolio"><b>ReverseFolio</b></a><br>
+      Plataforma y widget para portfolios de devs: un árbol RPG de puntos ciegos y bugs, con embeds.<br>
+      <sub><code>TypeScript · Web Component · SVG</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><b>Huso</b></a><br>
+      Agenda pública open source para freelancers y equipos: reservas online, disponibilidad, zonas horarias y emails automáticos.<br>
+      <sub><code>TypeScript</code></sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><b>Panel ESG para PYMEs</b></a><br>
+      Energía, residuos y viajes en un solo lugar, con score ESG y recomendaciones accionables.<br>
+      <sub><code>TypeScript</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/kilorito2/lumen-studio"><b>Lumen Studio</b></a><br>
+      Sitio al estilo Awwwards con storytelling guiado por scroll (estudio ficticio).<br>
+      <sub><code>Next.js · Three.js</code></sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/kilorito2/navegador-rust"><b>Navegador Rust</b></a><br>
+      Navegador de escritorio construido con Rust.<br>
+      <sub><code>Rust</code></sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Más trabajo</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
+| [**Terra**](https://github.com/kilorito2/Terra) | Landing inmersiva sobre cambio climático, con video de fondo y efecto liquid glass. | `React · TypeScript · Tailwind v4` |
+| [**Vex**](https://github.com/kilorito2/Vex) | Landing sobre exploración y conservación del océano profundo. | `React · TypeScript · Vite` |
+| [**Loam**](https://github.com/kilorito2/loam) | Landing editorial experimental con scroll suave y animaciones. | `Next.js · GSAP · Lenis` |
+| [**Altitude**](https://github.com/kilorito2/altitude-landing) | Landing de inteligencia de datos orbitales. | `Vite · CSS` |
+| [**Velmont Grand Hotel**](https://github.com/kilorito2/velmont-grand-hotel) | Landing de hotel de lujo en HTML, CSS y JavaScript. | `HTML · CSS · JS` |
+| [**Simulador de proyectiles**](https://simulador-de-trayectoria-de-proyect.vercel.app) | Simulador web de la trayectoria de proyectiles. | `TypeScript · Vite` |
+| [**KioMusic**](https://github.com/kilorito2/kiomusic-discord-bot) | Bot de música para Discord con filtros de audio, playlists y panel web. | `Node.js · Discord` |
+| [**Lanitas Tejidas**](https://github.com/kilorito2/Lanitas-Tejidas) | Landing de un emprendimiento de tejidos a crochet. | `React · Vite · Tailwind` |
+
+</details>
+
+---
+
+## `PS> radar`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v3/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v3/radar-light.svg">
+    <img src="assets/v3/radar-dark.svg" width="520" alt="Radar de áreas de trabajo: frontend, UI y animación, apps de escritorio, backend y APIs, arquitectura y herramientas">
+  </picture>
+</p>
+
+---
+
+## `PS> contacto`
+
+<div align="center">
+
+<a href="https://luciano-rodriguez.vercel.app/">
+  <img src="https://img.shields.io/badge/Portafolio-f0a93a?style=for-the-badge&logo=vercel&logoColor=0f1418" alt="Portafolio">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/kilorito">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;
+<a href="https://github.com/kilorito2?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-5eb5a2?style=for-the-badge&logo=github&logoColor=0f1418" alt="GitHub">
+</a>
+
+<br>
+<br>
+
+<sub>Luciano Rodríguez López · Tucumán, Argentina · @kilorito2</sub>
 
 </div>
