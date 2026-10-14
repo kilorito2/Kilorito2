@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 472 200" width="472" height="200" role="img" aria-labelledby="t">
+<title id="t">Panel ESG para PYMEs: Energía, residuos y viajes en un solo lugar, con score ESG y recomendaciones accionables.</title>
+<defs>
+<clipPath id="cc"><rect x="1" y="1" width="470" height="198" rx="10"/></clipPath>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.sans{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, 'JetBrains Mono', 'SF Mono', Consolas, 'DejaVu Sans Mono', monospace}
+.cd{animation:cin .7s cubic-bezier(.2,.8,.2,1) 0.48s backwards}
+@keyframes cin{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.ul{stroke-dasharray:1;animation:ulx .9s ease-out backwards}
+@keyframes ulx{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+.cv{transform-origin:251px 68px;animation:ty 16s linear 6.4s infinite}
+@keyframes ty{0%{transform:scaleX(1);animation-timing-function:steps(20,end)}7%{transform:scaleX(0)}95%{transform:scaleX(0);animation-timing-function:steps(20,end)}100%{transform:scaleX(1)}}
+.cu{animation:cx 16s linear 6.4s infinite}
+@keyframes cx{0%{transform:translateX(0);animation-timing-function:steps(20,end)}7%{transform:translateX(228px)}95%{transform:translateX(228px);animation-timing-function:steps(20,end)}100%{transform:translateX(0)}}
+.bl{animation:blink 1.06s steps(1) infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.ds{animation:fdx .7s ease-out backwards}
+.fd{animation:fdx .7s ease-out backwards}
+@keyframes fdx{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.ch{animation:chp .5s cubic-bezier(.3,1.7,.5,1) backwards}
+@keyframes chp{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+.sd{opacity:0;animation:sdp 2.4s ease-out infinite}
+@keyframes sdp{0%{opacity:.9;transform:scale(1)}100%{opacity:0;transform:scale(2.8)}}
+.tc{stroke-dasharray:.1 .9;opacity:.9;animation:tcr 9s linear infinite}
+@keyframes tcr{from{stroke-dashoffset:0}to{stroke-dashoffset:-1}}
+.sn{animation:shn 10s ease-in-out 7.2s infinite}
+@keyframes shn{0%{transform:translateX(0)}20%{transform:translateX(792px)}100%{transform:translateX(792px)}}
+.ar{animation:arw 1.8s ease-in-out infinite}
+@keyframes arw{0%,100%{transform:translate(0,0)}50%{transform:translate(2px,-2px)}}
+.orb{animation:spn 40s linear infinite}
+@keyframes spn{to{transform:rotate(360deg)}}
+.fl{animation:flt 5s ease-in-out infinite alternate}
+@keyframes flt{from{transform:translateY(-3px) scale(1)}to{transform:translateY(3px) scale(1.04)}}
+@media (prefers-reduced-motion:reduce){
+.cd,.ul,.cu,.cv,.ds,.fd,.ch,.sn,.sd,.tc,.orb,.fl,.ar{animation:none!important}
+.cv,.cu,.sn,.sd,.tc{display:none}
+}
+</style>
+<g class="cd">
+<rect x="1" y="1" width="470" height="198" rx="10" fill="#111a21" stroke="#2a3641" stroke-width="1.2"/>
+<g clip-path="url(#cc)">
+<rect x="0" y="0" width="472" height="32" fill="#17222b"/><rect x="14" y="9" width="17" height="14" rx="3" fill="#3a6ea5"/><text x="22.5" y="19.6" text-anchor="middle" class="mono" font-size="9" font-weight="700" fill="#fff">&gt;_</text><text x="40" y="20.5" class="mono" font-size="11.5" fill="#8a95a0">PS C:\proyectos\panel-esg&gt;</text><circle cx="297.4" cy="16" r="3.2" fill="#5b6872"/><text x="380" y="20" text-anchor="end" class="mono" font-size="11" fill="#8a95a0">act. 04 sep</text><g stroke="#8a95a0" stroke-width="1.3" fill="none" stroke-linecap="round"><path d="M394 16.5h9"/><rect x="418" y="11.5" width="9" height="9" rx="1.2"/><path d="M444 11.5l9 9M453 11.5l-9 9"/></g><line class="ul" pathLength="1" x1="0" y1="32" x2="472" y2="32" stroke="#f0a93a" stroke-opacity=".75" stroke-width="1.6" style="animation-delay:0.68s"/>
+
+<text x="22" y="68" class="sans" font-size="20" font-weight="700" fill="#ece7db" textLength="224" lengthAdjust="spacingAndGlyphs">Panel ESG para PYMEs</text><rect class="cv" x="19" y="48" width="232" height="28" fill="#111a21"/><g class="cu"><rect class="bl" x="21" y="51" width="2.2" height="21" fill="#f0a93a"/></g><text class="ds sans" x="22" y="96.0" font-size="13.5" fill="#c3cbd1" style="animation-delay:1.03s">Energía, residuos y viajes en un solo lugar, con score</text><text class="ds sans" x="22" y="115.5" font-size="13.5" fill="#c3cbd1" style="animation-delay:1.15s">ESG y recomendaciones accionables.</text><g class="ch" style="transform-origin:75.0px 168px;animation-delay:1.30s"><rect x="22.0" y="156" width="106.0" height="24" rx="12" fill="#f0a93a" fill-opacity=".09" stroke="#f0a93a" stroke-opacity=".4"/><path d="M1.125 0C.502 0 0 .502 0 1.125v21.75C0 23.498.502 24 1.125 24h21.75c.623 0 1.125-.502 1.125-1.125V1.125C24 .502 23.498 0 22.875 0zm17.363 9.75c.612 0 1.154.037 1.627.111a6.38 6.38 0 0 1 1.306.34v2.458a3.95 3.95 0 0 0-.643-.361 5.093 5.093 0 0 0-.717-.26 5.453 5.453 0 0 0-1.426-.2c-.3 0-.573.028-.819.086a2.1 2.1 0 0 0-.623.242c-.17.104-.3.229-.393.374a.888.888 0 0 0-.14.49c0 .196.053.373.156.529.104.156.252.304.443.444s.423.276.696.41c.273.135.582.274.926.416.47.197.892.407 1.266.628.374.222.695.473.963.753.268.279.472.598.614.957.142.359.214.776.214 1.253 0 .657-.125 1.21-.373 1.656a3.033 3.033 0 0 1-1.012 1.085 4.38 4.38 0 0 1-1.487.596c-.566.12-1.163.18-1.79.18a9.916 9.916 0 0 1-1.84-.164 5.544 5.544 0 0 1-1.512-.493v-2.63a5.033 5.033 0 0 0 3.237 1.2c.333 0 .624-.03.872-.09.249-.06.456-.144.623-.25.166-.108.29-.234.373-.38a1.023 1.023 0 0 0-.074-1.089 2.12 2.12 0 0 0-.537-.5 5.597 5.597 0 0 0-.807-.444 27.72 27.72 0 0 0-1.007-.436c-.918-.383-1.602-.852-2.053-1.405-.45-.553-.676-1.222-.676-2.005 0-.614.123-1.141.369-1.582.246-.441.58-.804 1.004-1.089a4.494 4.494 0 0 1 1.47-.629 7.536 7.536 0 0 1 1.77-.201zm-15.113.188h9.563v2.166H9.506v9.646H6.789v-9.646H3.375z" transform="translate(31.0 161.5) scale(0.5417)" fill="#f0a93a"/><text x="50.0" y="172" class="mono" font-size="11.5" fill="#ece7db">TypeScript</text></g><g class="rp"><text x="432" y="172" text-anchor="end" class="mono" font-size="11.5" fill="#f0a93a">ver repo</text><text class="ar mono" x="450" y="172" text-anchor="end" font-size="12" fill="#f0a93a">↗</text></g>
+<g class="sn"><rect x="-200" y="-10" width="120" height="220" fill="url(#sh)" transform="skewX(-18)"/></g>
+</g>
+<rect class="tc" pathLength="1" x="1" y="1" width="470" height="198" rx="10" fill="none" stroke="#f0a93a" stroke-width="1.6" stroke-linecap="round" style="animation-delay:4.4s"/>
+</g>
+</svg>

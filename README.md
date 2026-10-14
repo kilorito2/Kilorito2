@@ -48,48 +48,29 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 ## `PS> proyectos`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kilorito2/sakana-desktop"><b>Sakana Desktop</b></a><br>
-      Clon de escritorio de Sakana AI Chat con una capa de proveedores de IA agnóstica.<br>
-      <sub><code>Electron · React · TypeScript · Tailwind CSS</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/kilorito2/reversefolio"><b>ReverseFolio</b></a><br>
-      Plataforma y widget para portfolios de devs: un árbol RPG de puntos ciegos y bugs, con embeds.<br>
-      <sub><code>TypeScript · Web Component · SVG</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><b>Huso</b></a><br>
-      Agenda pública open source para freelancers y equipos: reservas online, disponibilidad, zonas horarias y emails automáticos.<br>
-      <sub><code>TypeScript</code></sub>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><b>Panel ESG para PYMEs</b></a><br>
-      Energía, residuos y viajes en un solo lugar, con score ESG y recomendaciones accionables.<br>
-      <sub><code>TypeScript</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/kilorito2/lumen-studio"><b>Lumen Studio</b></a><br>
-      Sitio al estilo Awwwards con storytelling guiado por scroll (estudio ficticio).<br>
-      <sub><code>Next.js · Three.js</code></sub>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/kilorito2/navegador-rust"><b>Navegador Rust</b></a><br>
-      Navegador de escritorio construido con Rust.<br>
-      <sub><code>Rust</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/kilorito2/sakana-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/sakana-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/sakana-light.svg"><img src="assets/v5/cards/sakana-dark.svg" width="100%" alt="Sakana Desktop: clon de escritorio de Sakana AI Chat con una capa de proveedores de IA agnóstica. Electron, React, TypeScript, Tailwind CSS"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kilorito2/mirra-remote"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/mirra-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/mirra-light.svg"><img src="assets/v5/cards/mirra-dark.svg" width="100%" alt="Mirra: mirá y controlá tu PC con Windows desde el navegador del celular. Electron, TypeScript, Node.js, WebRTC"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kilorito2/reversefolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/reversefolio-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/reversefolio-light.svg"><img src="assets/v5/cards/reversefolio-dark.svg" width="49%" alt="ReverseFolio: plataforma y widget para portfolios de devs. TypeScript, Web Component, SVG"></picture></a>
+  <a href="https://github.com/kilorito2/Open-source-scheduling-SaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/huso-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/huso-light.svg"><img src="assets/v5/cards/huso-dark.svg" width="49%" alt="Huso: agenda pública open source para freelancers y equipos. TypeScript"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kilorito2/Climate-ESG-productivity-dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/esg-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/esg-light.svg"><img src="assets/v5/cards/esg-dark.svg" width="49%" alt="Panel ESG para PYMEs: energía, residuos y viajes con score ESG. TypeScript"></picture></a>
+  <a href="https://github.com/kilorito2/lumen-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v5/cards/lumen-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/v5/cards/lumen-light.svg"><img src="assets/v5/cards/lumen-dark.svg" width="49%" alt="Lumen Studio: sitio al estilo Awwwards con storytelling guiado por scroll. Next.js, Three.js"></picture></a>
+</p>
 
 <details>
 <summary><b>Más trabajo</b></summary>
 <br>
+
+**Landings y sitios**
 
 | Proyecto | Descripción | Tecnologías |
 | --- | --- | --- |
@@ -98,9 +79,14 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 | [**Loam**](https://github.com/kilorito2/loam) | Landing editorial experimental con scroll suave y animaciones. | `Next.js · GSAP · Lenis` |
 | [**Altitude**](https://github.com/kilorito2/altitude-landing) | Landing de inteligencia de datos orbitales. | `Vite · CSS` |
 | [**Velmont Grand Hotel**](https://github.com/kilorito2/velmont-grand-hotel) | Landing de hotel de lujo en HTML, CSS y JavaScript. | `HTML · CSS · JS` |
+| [**Lanitas Tejidas**](https://github.com/kilorito2/Lanitas-Tejidas) | Landing de un emprendimiento de tejidos a crochet. | `React · Vite · Tailwind` |
+
+**Herramientas y bots**
+
+| Proyecto | Descripción | Tecnologías |
+| --- | --- | --- |
 | [**Simulador de proyectiles**](https://simulador-de-trayectoria-de-proyect.vercel.app) | Simulador web de la trayectoria de proyectiles. | `TypeScript · Vite` |
 | [**KioMusic**](https://github.com/kilorito2/kiomusic-discord-bot) | Bot de música para Discord con filtros de audio, playlists y panel web. | `Node.js · Discord` |
-| [**Lanitas Tejidas**](https://github.com/kilorito2/Lanitas-Tejidas) | Landing de un emprendimiento de tejidos a crochet. | `React · Vite · Tailwind` |
 
 </details>
 
