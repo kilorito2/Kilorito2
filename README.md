@@ -34,36 +34,15 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 ## `PS> stack`
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v3/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v3/stack-light.svg">
+    <img src="assets/v3/stack-dark.svg" width="960" alt="Árbol de habilidades con cuatro ramas. Escritorio: Electron, Node.js, Rust. Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Vite, Next.js. 3D y animación: GSAP, Lenis, Three.js. Herramientas: Git, GitHub, VS Code, Vercel, Netlify. Los nodos en gris son lo que todavía falta desbloquear.">
+  </picture>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>frontend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS y Vite"><br>
-      <sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>escritorio</b><br><br>
-      <img src="https://skillicons.dev/icons?i=electron,rust,nodejs" alt="Electron, Rust y Node.js"><br>
-      <sub>Electron · Rust · Node.js</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>3d y animación</b><br><br>
-      <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"><br>
-      <sub>Three.js · GSAP · Lenis</sub>
-    </td>
-    <td valign="top">
-      <b>herramientas</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Git, GitHub, VS Code, Vercel y Netlify"><br>
-      <sub>Git · GitHub · VS Code · Vercel · Netlify</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center"><sub>En color, lo que ya uso. En gris, lo que viene.</sub></p>
 
 ---
 
