@@ -110,9 +110,9 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/v3/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/v3/radar-light.svg">
-    <img src="assets/v3/radar-dark.svg" width="520" alt="Radar de áreas de trabajo: frontend, UI y animación, apps de escritorio, backend y APIs, arquitectura y herramientas">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v5/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v5/radar-light.svg">
+    <img src="assets/v5/radar-dark.svg" width="520" alt="Radar de áreas de trabajo: frontend, UI y animación, apps de escritorio, backend y APIs, arquitectura y herramientas">
   </picture>
 </p>
 
