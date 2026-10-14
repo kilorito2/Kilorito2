@@ -36,9 +36,9 @@ Me interesa construir productos completos: interfaces cuidadas, arquitectura cla
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/v4/stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/v4/stack-light.svg">
-    <img src="assets/v4/stack-dark.svg" width="960" alt="Árbol de habilidades con cuatro ramas. Escritorio: Electron, Node.js, Rust. Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Vite, Next.js. 3D y animación: GSAP, Lenis, Three.js. Herramientas: Git, GitHub, VS Code, Vercel, Netlify. Los nodos en gris son lo que todavía falta desbloquear.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/v5/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/v5/stack-light.svg">
+    <img src="assets/v5/stack-dark.svg" width="960" alt="Árbol de habilidades con cuatro ramas. Escritorio: Electron, Node.js, Rust. Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Vite, Next.js. 3D y animación: GSAP, Lenis, Three.js. Herramientas: Git, GitHub, VS Code, Vercel, Netlify. Los nodos en gris son lo que todavía falta desbloquear.">
   </picture>
 </p>
 
